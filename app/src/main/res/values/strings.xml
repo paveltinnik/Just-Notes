@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Habr Ideal App</string>
+    <string name="create_note_fab_description">Create Note</string>
+    <string name="just_notes_main_topbar_title">Just Notes</string>
+    <string name="dont_have_any_notes_banner">Don`t have any notes</string>
+    <string name="title_text_field_placeholder">Title</string>
+    <string name="create_note_description">Create note</string>
+    <string name="save_button_text">Save</string>
+    <string name="please_fill_out_the_title_field">Please fill out the title</string>
+    <string name="create_note_topbar_title">Create note</string>
+    <string name="update_note_topbar_title">Update note</string>
+</resources>
